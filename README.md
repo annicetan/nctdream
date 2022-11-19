@@ -77,10 +77,16 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+### HTML
+- [HTML](https://www.w3schools.com/html/) stands for HyperText Markup Language
+- It is to give descriptions and state the structre of the website
+### CSS
+- [CSS](https://www.w3schools.com/css/css_intro.asp) stands for Cascading Style Sheets
+- It is to style and present to users on how the website looks like including fonts, layout and colours
+### Javascript
+- [Javascript](https://www.w3schools.com/js/)
+- Create content, control multimedia, animate images which means bascially programming the behaviour of the website
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
 
 
 
