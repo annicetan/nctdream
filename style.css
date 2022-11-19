@@ -1,0 +1,72 @@
+html, body 
+{
+  height: 100%;
+  width: 100%;
+}
+
+.h1
+{
+  text-align: center;
+  font-family: 'Disclaimer', sans-serif;
+  font-weight: normal;
+  font-size: 300px;
+}
+
+.h2
+{
+  font-family: 'Disclaimer', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.p1
+{
+  text-align: center;
+  font-size: 70px;
+  font-weight: lighter;
+  font-family: 'VOLTDECO V02', sans-serif;                   
+}
+
+body, html 
+{
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+.tablink 
+{
+  background-color: #abd510;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 20px 70px;
+  font-size: 24px;
+  width: 20%;
+  text-align: center;
+  white-space: nowrap;
+  font-family: 'VOLTDECO V02', sans-serif;
+}
+
+.tablink:hover 
+{
+  background-color: #478778;
+}
+
+.tabcontent 
+{
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+  text-align: center;
+}
+
+#Home {background-color: red;}
+#Members {background-color: #478778;}
+#Discography {background-color: blue;}
+#Social Media {background-color: orange;}
+#Upcoming Events {background-color: purple;}
