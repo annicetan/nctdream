@@ -1,6 +1,7 @@
 # NCT Dream
-One or two paragraphs providing an overview of your project. Tell us about your project.
-Essentially, this part is your sales pitch.
+Happen to be a BIG fan of the Kpop Group NCT? Do you find yourself struggling to catch up on the years of content published online about your favourite group?  We know. It is a lot to take in sometimes and we can relate. This is where YourDreamCT (Website’s Name) comes in to be your best friend!!
+
+From member profiles to a uniquely designed calendar that shows all upcoming NCT events, concerts and tours, YourDreamCT has all the features to keep you updated and support you in your journey in becoming the NUMBER 1 NCTzen.
 
 
 
@@ -30,7 +31,15 @@ In my project, I have created a few pages including:
   - Questions/Feedback
     - For users to post questions and will answer them
     - Feedback section
-  
+ 
+
+### User Stories
+#### New NCT fan that wants to catch up to NCT news & content quickly
+
+#### Old Kpop fans who wish to come back and wants to find out about the NCT's progress in the Kpop world
+ 
+#### Current NCT fan who wants to find out more about the upcoming concerts, tours and events.
+
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
@@ -92,18 +101,19 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 
 ## Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### New NCT fans who wants to follow NCT's official Social Media accounts
+Social Media:
+  - Go to the 'Social Media' tab
+  - Try to click on the instagram icon and verify that it goes to the official group's instagram account
+  - Try to click on the twitter icon and verify that it goes to the official group's twitter account
+  - Try to click on the youtube icon and verify that it goes to the official group's youtube account
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Old NCT fans feeling nostalgic and wants to check out past NCT's content such as images and videos
+Discography:
+  - Go to the 'Discography' tab
+  - Scroll down to see the group's previous songs and albums
+  - Try to click onto the link of the video that you want to see and ensure that it brings the user to the correct page
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 
