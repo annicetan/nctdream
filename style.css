@@ -14,10 +14,10 @@ html, body
 
 .h2
 {
-  font-family: 'Disclaimer', sans-serif;
+  font-family: 'VOLTDECO V02', sans-serif;   
   font-size: 50px;
   text-align: center;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .p1
@@ -63,6 +63,8 @@ body, html
   padding: 100px 20px;
   height: 100%;
   text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+  line-height: 1.8;
 }
 
 #Home {background-color: red;}
