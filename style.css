@@ -75,11 +75,36 @@ body, html
   height: 100%;
   text-align: center;
   font-family: 'Red Hat Display', sans-serif;
-  line-height: 1.8;
+  line-height: 1.8;  
 }
 
 
+table, th, td 
+{
+  border: 1px solid white;
+  border-collapse: collapse;
+}
 
+th, td 
+{
+  background-color: #96D4D4;
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+}
+
+.table
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 /* social media tab */
 
 /*
