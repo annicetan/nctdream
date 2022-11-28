@@ -60,10 +60,12 @@ body, html
   font-family: 'VOLTDECO V02', sans-serif;
 }
 
+
 .tablink:hover 
 {
   background-color: #478778;
 }
+
 
 .tabcontent 
 {
@@ -79,32 +81,12 @@ body, html
 
 
 /* social media tab */
-.fa 
-{
-  padding: 100px;
-  font-size: 100px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
 
-.fa:hover 
-{
-    opacity: 0.7;
-}
-
-.fa-youtube 
-{
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram 
-{
-  background: #4f5bd5;
-  color: white;
-}
-
-
+/*
+.fa-renjun
+.fa-jeno
+.fa-haechan
+.fa-jaemin
+.fa-chenle
+.fa-jisung
+*/
